@@ -1,6 +1,6 @@
 # bitcoin-mining-python
 
-<h3>What Is Bitcoin Mining? </h3>
+<h3>What is Bitcoin Mining? </h3>
 
 Bitcoin mining is the process of verifying bitcoin transactions and recording them in the public blockchain ledger. In blockchain, the transactions are verified by bitcoin users, so basically the transactions have to be verified by the participants of the network. Those who have the required hardware and computing power are called miners.
 
