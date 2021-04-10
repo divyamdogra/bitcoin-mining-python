@@ -28,3 +28,9 @@ To generate the hash, Bitcoin miners use the SHA-256 hashing algorithm and defin
 Let’s say Beyonce wants to share 10 bitcoins with Jennifer. To do that, what would the steps be? First, transaction data is shared with bitcoin users from the memory pool. The transaction sits in an unmined pool of memory transactions. In a memory pool, unconfirmed transactions wait until they are verified and included in a new block. Bitcoin miners compete to validate the transaction using proof of work. The miner who solves the puzzle first shares the result across the other nodes. Once the block has been verified, the nonce has been generated, then the nodes will start granting their approval. If maximum nodes grant their approval, the block becomes valid and is added to the blockchain. The miner who has solved the puzzle will also receive a reward of 12.5 bitcoins, which as of today is around $98,000.
 
 The 10 bitcoins for which the transaction was initiated now will be transferred from Beyonce to Jennifer.
+
+
+
+![image](https://user-images.githubusercontent.com/48207530/114278025-686b0180-9a4b-11eb-82a7-b80be883a40f.png)
+![image](https://user-images.githubusercontent.com/48207530/114278009-5ab57c00-9a4b-11eb-8fa3-1e3991343dcf.png)
+
